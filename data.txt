@@ -1,0 +1,303 @@
+nohup: ignoring input
+
+  Simulación 1/100 lista.
+--- Tiempo parcial: 0.06 minutos ---
+
+  Simulación 2/100 lista.
+--- Tiempo parcial: 0.11 minutos ---
+
+  Simulación 3/100 lista.
+--- Tiempo parcial: 0.17 minutos ---
+
+  Simulación 4/100 lista.
+--- Tiempo parcial: 0.23 minutos ---
+
+  Simulación 5/100 lista.
+--- Tiempo parcial: 0.29 minutos ---
+
+  Simulación 6/100 lista.
+--- Tiempo parcial: 0.35 minutos ---
+
+  Simulación 7/100 lista.
+--- Tiempo parcial: 0.40 minutos ---
+
+  Simulación 8/100 lista.
+--- Tiempo parcial: 0.46 minutos ---
+
+  Simulación 9/100 lista.
+--- Tiempo parcial: 0.52 minutos ---
+
+  Simulación 10/100 lista.
+--- Tiempo parcial: 0.58 minutos ---
+
+  Simulación 11/100 lista.
+--- Tiempo parcial: 0.63 minutos ---
+
+  Simulación 12/100 lista.
+--- Tiempo parcial: 0.69 minutos ---
+
+  Simulación 13/100 lista.
+--- Tiempo parcial: 0.75 minutos ---
+
+  Simulación 14/100 lista.
+--- Tiempo parcial: 0.81 minutos ---
+
+  Simulación 15/100 lista.
+--- Tiempo parcial: 0.87 minutos ---
+
+  Simulación 16/100 lista.
+--- Tiempo parcial: 0.92 minutos ---
+
+  Simulación 17/100 lista.
+--- Tiempo parcial: 0.98 minutos ---
+
+  Simulación 18/100 lista.
+--- Tiempo parcial: 1.04 minutos ---
+
+  Simulación 19/100 lista.
+--- Tiempo parcial: 1.10 minutos ---
+
+  Simulación 20/100 lista.
+--- Tiempo parcial: 1.15 minutos ---
+
+  Simulación 21/100 lista.
+--- Tiempo parcial: 1.21 minutos ---
+
+  Simulación 22/100 lista.
+--- Tiempo parcial: 1.27 minutos ---
+
+  Simulación 23/100 lista.
+--- Tiempo parcial: 1.33 minutos ---
+
+  Simulación 24/100 lista.
+--- Tiempo parcial: 1.38 minutos ---
+
+  Simulación 25/100 lista.
+--- Tiempo parcial: 1.44 minutos ---
+
+  Simulación 26/100 lista.
+--- Tiempo parcial: 1.50 minutos ---
+
+  Simulación 27/100 lista.
+--- Tiempo parcial: 1.56 minutos ---
+
+  Simulación 28/100 lista.
+--- Tiempo parcial: 1.61 minutos ---
+
+  Simulación 29/100 lista.
+--- Tiempo parcial: 1.67 minutos ---
+
+  Simulación 30/100 lista.
+--- Tiempo parcial: 1.73 minutos ---
+
+  Simulación 31/100 lista.
+--- Tiempo parcial: 1.79 minutos ---
+
+  Simulación 32/100 lista.
+--- Tiempo parcial: 1.84 minutos ---
+
+  Simulación 33/100 lista.
+--- Tiempo parcial: 1.90 minutos ---
+
+  Simulación 34/100 lista.
+--- Tiempo parcial: 1.96 minutos ---
+
+  Simulación 35/100 lista.
+--- Tiempo parcial: 2.02 minutos ---
+
+  Simulación 36/100 lista.
+--- Tiempo parcial: 2.07 minutos ---
+
+  Simulación 37/100 lista.
+--- Tiempo parcial: 2.13 minutos ---
+
+  Simulación 38/100 lista.
+--- Tiempo parcial: 2.19 minutos ---
+
+  Simulación 39/100 lista.
+--- Tiempo parcial: 2.25 minutos ---
+
+  Simulación 40/100 lista.
+--- Tiempo parcial: 2.30 minutos ---
+
+  Simulación 41/100 lista.
+--- Tiempo parcial: 2.36 minutos ---
+
+  Simulación 42/100 lista.
+--- Tiempo parcial: 2.42 minutos ---
+
+  Simulación 43/100 lista.
+--- Tiempo parcial: 2.48 minutos ---
+
+  Simulación 44/100 lista.
+--- Tiempo parcial: 2.53 minutos ---
+
+  Simulación 45/100 lista.
+--- Tiempo parcial: 2.59 minutos ---
+
+  Simulación 46/100 lista.
+--- Tiempo parcial: 2.65 minutos ---
+
+  Simulación 47/100 lista.
+--- Tiempo parcial: 2.71 minutos ---
+
+  Simulación 48/100 lista.
+--- Tiempo parcial: 2.76 minutos ---
+
+  Simulación 49/100 lista.
+--- Tiempo parcial: 2.82 minutos ---
+
+  Simulación 50/100 lista.
+--- Tiempo parcial: 2.88 minutos ---
+
+  Simulación 51/100 lista.
+--- Tiempo parcial: 2.94 minutos ---
+
+  Simulación 52/100 lista.
+--- Tiempo parcial: 2.98 minutos ---
+
+  Simulación 53/100 lista.
+--- Tiempo parcial: 3.01 minutos ---
+
+  Simulación 54/100 lista.
+--- Tiempo parcial: 3.05 minutos ---
+
+  Simulación 55/100 lista.
+--- Tiempo parcial: 3.09 minutos ---
+
+  Simulación 56/100 lista.
+--- Tiempo parcial: 3.12 minutos ---
+
+  Simulación 57/100 lista.
+--- Tiempo parcial: 3.16 minutos ---
+
+  Simulación 58/100 lista.
+--- Tiempo parcial: 3.19 minutos ---
+
+  Simulación 59/100 lista.
+--- Tiempo parcial: 3.23 minutos ---
+
+  Simulación 60/100 lista.
+--- Tiempo parcial: 3.27 minutos ---
+
+  Simulación 61/100 lista.
+--- Tiempo parcial: 3.30 minutos ---
+
+  Simulación 62/100 lista.
+--- Tiempo parcial: 3.34 minutos ---
+
+  Simulación 63/100 lista.
+--- Tiempo parcial: 3.37 minutos ---
+
+  Simulación 64/100 lista.
+--- Tiempo parcial: 3.41 minutos ---
+
+  Simulación 65/100 lista.
+--- Tiempo parcial: 3.45 minutos ---
+
+  Simulación 66/100 lista.
+--- Tiempo parcial: 3.48 minutos ---
+
+  Simulación 67/100 lista.
+--- Tiempo parcial: 3.52 minutos ---
+
+  Simulación 68/100 lista.
+--- Tiempo parcial: 3.55 minutos ---
+
+  Simulación 69/100 lista.
+--- Tiempo parcial: 3.59 minutos ---
+
+  Simulación 70/100 lista.
+--- Tiempo parcial: 3.63 minutos ---
+
+  Simulación 71/100 lista.
+--- Tiempo parcial: 3.66 minutos ---
+
+  Simulación 72/100 lista.
+--- Tiempo parcial: 3.70 minutos ---
+
+  Simulación 73/100 lista.
+--- Tiempo parcial: 3.74 minutos ---
+
+  Simulación 74/100 lista.
+--- Tiempo parcial: 3.77 minutos ---
+
+  Simulación 75/100 lista.
+--- Tiempo parcial: 3.81 minutos ---
+
+  Simulación 76/100 lista.
+--- Tiempo parcial: 3.85 minutos ---
+
+  Simulación 77/100 lista.
+--- Tiempo parcial: 3.88 minutos ---
+
+  Simulación 78/100 lista.
+--- Tiempo parcial: 3.92 minutos ---
+
+  Simulación 79/100 lista.
+--- Tiempo parcial: 3.95 minutos ---
+
+  Simulación 80/100 lista.
+--- Tiempo parcial: 3.99 minutos ---
+
+  Simulación 81/100 lista.
+--- Tiempo parcial: 4.03 minutos ---
+
+  Simulación 82/100 lista.
+--- Tiempo parcial: 4.06 minutos ---
+
+  Simulación 83/100 lista.
+--- Tiempo parcial: 4.10 minutos ---
+
+  Simulación 84/100 lista.
+--- Tiempo parcial: 4.14 minutos ---
+
+  Simulación 85/100 lista.
+--- Tiempo parcial: 4.17 minutos ---
+
+  Simulación 86/100 lista.
+--- Tiempo parcial: 4.21 minutos ---
+
+  Simulación 87/100 lista.
+--- Tiempo parcial: 4.25 minutos ---
+
+  Simulación 88/100 lista.
+--- Tiempo parcial: 4.28 minutos ---
+
+  Simulación 89/100 lista.
+--- Tiempo parcial: 4.32 minutos ---
+
+  Simulación 90/100 lista.
+--- Tiempo parcial: 4.35 minutos ---
+
+  Simulación 91/100 lista.
+--- Tiempo parcial: 4.39 minutos ---
+
+  Simulación 92/100 lista.
+--- Tiempo parcial: 4.43 minutos ---
+
+  Simulación 93/100 lista.
+--- Tiempo parcial: 4.46 minutos ---
+
+  Simulación 94/100 lista.
+--- Tiempo parcial: 4.50 minutos ---
+
+  Simulación 95/100 lista.
+--- Tiempo parcial: 4.54 minutos ---
+
+  Simulación 96/100 lista.
+--- Tiempo parcial: 4.57 minutos ---
+
+  Simulación 97/100 lista.
+--- Tiempo parcial: 4.61 minutos ---
+
+  Simulación 98/100 lista.
+--- Tiempo parcial: 4.65 minutos ---
+
+  Simulación 99/100 lista.
+--- Tiempo parcial: 4.68 minutos ---
+
+  Simulación 100/100 lista.
+--- Tiempo parcial: 4.72 minutos ---
+
+--- Tiempo total: 4.72 minutos ---
