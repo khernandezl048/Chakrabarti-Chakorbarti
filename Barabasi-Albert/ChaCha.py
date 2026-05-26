@@ -33,7 +33,7 @@ N_simulations = int(1e4)
 M = 5e4
 N = 500
 
-G = nx.complete_graph(N)
+G = nx.barabasi_albert_graph(N, m=1)
 Money = np.full(N, M/N)
 
 edges = np.array(list(G.edges()), dtype=np.int32)
